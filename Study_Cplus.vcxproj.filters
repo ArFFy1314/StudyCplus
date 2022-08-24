@@ -72,5 +72,8 @@
     <ClCompile Include="138_polymorphic_abstract.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="139_polymorphic_drinks.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
