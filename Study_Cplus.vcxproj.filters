@@ -42,5 +42,8 @@
     <ClCompile Include="128_inherit_way.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="129_inherit_model.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
