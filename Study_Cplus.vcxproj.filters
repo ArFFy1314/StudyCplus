@@ -54,5 +54,11 @@
     <ClCompile Include="132_inherit_static.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="133_inherit_many.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134_inherit_diamond.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
