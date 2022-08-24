@@ -36,5 +36,8 @@
     <ClCompile Include="126_operator%28%29.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="127_inherit_basic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
