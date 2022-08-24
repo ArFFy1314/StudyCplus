@@ -45,5 +45,8 @@
     <ClCompile Include="129_inherit_model.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="130_inherit_order.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
