@@ -48,5 +48,11 @@
     <ClCompile Include="130_inherit_order.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="131_inherit_name.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="132_inherit_static.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
