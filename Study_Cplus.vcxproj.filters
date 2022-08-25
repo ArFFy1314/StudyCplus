@@ -162,5 +162,8 @@
     <ClCompile Include="017_calcu_mo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="056_pointer_basic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
