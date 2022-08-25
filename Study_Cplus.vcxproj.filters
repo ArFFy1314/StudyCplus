@@ -123,5 +123,8 @@
     <ClCompile Include="009_basic_sizeof.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="011_basic_char.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
