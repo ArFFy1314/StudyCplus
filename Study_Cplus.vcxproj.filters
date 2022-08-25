@@ -93,9 +93,6 @@
     <ClCompile Include="145_filebinary_read.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="9_basic_sizeof.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="001_basic_way.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -121,6 +118,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="010_basic_float.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="009_basic_sizeof.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
