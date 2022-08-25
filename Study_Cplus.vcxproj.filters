@@ -126,5 +126,41 @@
     <ClCompile Include="011_basic_char.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="012_basic_change.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="013_basic_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="014_basic_bool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="015_basic_input.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="016_calcu_four.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="018_calcu_+-.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="019_calcu_=.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="020_calcu_bigsmall.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="021_calcu_!.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="022_calcu_and.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="023_calcu_or.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="017_calcu_mo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
