@@ -93,5 +93,8 @@
     <ClCompile Include="145_filebinary_read.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1_basic_way.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
