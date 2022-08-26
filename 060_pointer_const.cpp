@@ -1,7 +1,7 @@
 //const修饰指针
-//1. const修饰指针-- - 常量指针
-//2. const修饰常量-- - 指针常量
-//3. const即修饰指针，又修饰常量
+//1. const修饰指针--const int * p1 = &a; - 常量指针|指向常量的指针变量
+//2. const修饰常量--int * const p2 = &a; - 指针常量|指向变量的指针常量
+//3. const即修饰指针，又修饰常量--const int * const p3 = &a;|指向常量的指针常量
 //技巧：看const右侧紧跟着的是指针还是常量, 是指针就是常量指针，是常量就是指针常量
 
 #include<iostream>
