@@ -168,5 +168,23 @@
     <ClCompile Include="057_pointer_space.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="058_pointer_empty.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="059_pointer_wild.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="060_pointer_const.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="061_pointer_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="062_pointer_function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="063_pointer_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
