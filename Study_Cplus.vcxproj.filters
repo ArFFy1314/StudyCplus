@@ -186,5 +186,206 @@
     <ClCompile Include="141_polymorphic_computer_142.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="029_choose_three.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="030_choose_switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="031_loop_while_032.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="033_loop_dowhile_034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="035_loop_for_036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="024_choose_if_028.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="037_loop_nesting_038.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="039_jump_break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="040_jump_continue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="041_jump_goto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="042_array_define.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="043_array_name_045.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="046_array_bullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="047_array2_define.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="048_array2_name_049.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="050_func_define.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="051_func_use.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="052_func_transmit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="053_func_exp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="055_func_perfect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="054_func_void.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="064_struct_define.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="065_struct_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="066_struct_pointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="067_struct_nesting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="068_struct_func.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="069_struct_const.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="070_struct_exp1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="071_struct_exp2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="072_struct_list_083.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="084_memory_code.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="085_memory_globle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="086_memory_shed.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="087_memory_stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="088_memory_new.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="089_cite_basic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="090_cite_notice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="091_cite_func.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="092_cite_return.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="093_cite_nature.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="094_cite_constant.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="095_funchigh_default.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="096_funchigh_employ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="098_funchigh_opernotice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="097_funchigh_operbasic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="099_class_whole.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100_class_student.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101_class_limit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="102_class_struct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="103_class_private.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104_class_cube.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105_class_pointcircle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106_class_structure.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107_class_sortuse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108_class_calltime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="109_class_callrule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110_class_copy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111_class_init.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="112_class_object.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113_class_static.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114_class_memory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="115_class_this.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116_class_emptyptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="117_class_const.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="119_friend_class.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="118_friend_globle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="120_friend_member.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
