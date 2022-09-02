@@ -393,6 +393,9 @@
     <ClCompile Include="147_workers_system_166.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="167_mould_notion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
