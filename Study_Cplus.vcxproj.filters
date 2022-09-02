@@ -399,6 +399,9 @@
     <ClCompile Include="168_model_funcbasic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="169_model_funcnote.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
