@@ -402,6 +402,9 @@
     <ClCompile Include="169_model_funcnote.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="170_model_arraysort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
