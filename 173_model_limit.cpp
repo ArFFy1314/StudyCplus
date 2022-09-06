@@ -41,6 +41,15 @@ bool myCompare(T& a, T& b)
 	else
 		return false;
 }
+
+//利用具体化Person的版本实现代码，具体化优先调用
+template<> bool myCompare(Person& p1, Person& p2)
+{
+	if (p1.m_Name == p2.m_Name&&p1.m_Age==p2.m_Age)
+		return true;
+	else
+		return false;
+}
 void test01()
 {
 	int a = 10;
