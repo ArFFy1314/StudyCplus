@@ -432,9 +432,15 @@
     <ClCompile Include="179_model_doing.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="180_model_classfile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="180_model_classfile.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
