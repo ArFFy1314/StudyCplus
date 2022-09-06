@@ -423,6 +423,9 @@
     <ClCompile Include="176_model_classtime.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="177_model_classdefault.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
