@@ -444,9 +444,6 @@
     <ClCompile Include="185_stl_basic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="194_stl_stringget.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="195_stl_stringinsert.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -496,6 +493,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="193_stlstring_compare.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="194_stlstring_get.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
