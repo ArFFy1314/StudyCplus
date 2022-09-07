@@ -575,7 +575,7 @@
     <ClCompile Include="198_stlvector_evalution.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="199_stl_vectorsize.cpp">
+    <ClCompile Include="199_stlvector_size.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="200_stl_vectorinsert.cpp">
