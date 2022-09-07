@@ -489,6 +489,9 @@
     <ClCompile Include="200_stl_vectorinsert.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201_stl_vectorget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
