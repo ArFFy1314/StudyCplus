@@ -444,9 +444,6 @@
     <ClCompile Include="185_stl_basic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="197_stl_vectorbuild.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="198_stl_vectorevalution.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -496,6 +493,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="196_stlstring_son.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="197_stlvector_build.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

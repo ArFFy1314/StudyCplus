@@ -569,7 +569,7 @@
     <ClCompile Include="196_stlstring_son.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="197_stl_vectorbuild.cpp">
+    <ClCompile Include="197_stlvector_build.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="198_stl_vectorevalution.cpp">
