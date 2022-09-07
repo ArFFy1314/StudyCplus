@@ -545,7 +545,7 @@
     <ClCompile Include="188_stlvector_nesting.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="189_stl_stringbasic.cpp">
+    <ClCompile Include="189_stlstring_basic.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="190_stl_stringevalution.cpp">
