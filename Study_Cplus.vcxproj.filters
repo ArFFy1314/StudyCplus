@@ -468,6 +468,9 @@
     <ClCompile Include="193_stl_stringcompare.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="194_stl_stringget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
