@@ -548,7 +548,7 @@
     <ClCompile Include="189_stlstring_basic.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="190_stl_stringevalution.cpp">
+    <ClCompile Include="190_stlstring_evalution.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="191_stl_stringsplicing.cpp">
