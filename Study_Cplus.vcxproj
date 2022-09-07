@@ -563,7 +563,7 @@
     <ClCompile Include="194_stlstring_get.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="195_stl_stringinsert.cpp">
+    <ClCompile Include="195_stlstring_insert.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="196_stl_stringson.cpp">
