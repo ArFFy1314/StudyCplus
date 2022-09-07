@@ -477,6 +477,9 @@
     <ClCompile Include="196_stl_stringson.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="197_stl_vectorbuild.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
