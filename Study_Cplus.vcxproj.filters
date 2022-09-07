@@ -444,9 +444,6 @@
     <ClCompile Include="185_stl_basic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="201_stl_vectorget.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="202_stl_vectorswap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -496,6 +493,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="200_stlvector_insert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201_stlvector_get.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
