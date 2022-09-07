@@ -459,6 +459,9 @@
     <ClCompile Include="190_stl_stringevalution.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="191_stl_stringsplicing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
