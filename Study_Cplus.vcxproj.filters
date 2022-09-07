@@ -441,6 +441,9 @@
     <ClCompile Include="182_model_classarray_184.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="185_stl_basic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
