@@ -444,9 +444,6 @@
     <ClCompile Include="185_stl_basic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="188_stl_vectornesting.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="189_stl_stringbasic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -496,6 +493,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="187_stlvector_mydefine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="188_stlvector_nesting.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
