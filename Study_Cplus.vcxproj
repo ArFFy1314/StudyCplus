@@ -557,7 +557,7 @@
     <ClCompile Include="192_stlstring_fr.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="193_stl_stringcompare.cpp">
+    <ClCompile Include="193_stlstring_compare.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="194_stl_stringget.cpp">
