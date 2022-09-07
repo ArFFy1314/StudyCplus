@@ -584,7 +584,7 @@
     <ClCompile Include="201_stlvector_get.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="202_stl_vectorswap.cpp">
+    <ClCompile Include="202_stlvector_swap.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="203_stlvector_reserve.cpp">
