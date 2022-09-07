@@ -539,7 +539,7 @@
     <ClCompile Include="186_stlvector_acquaintance.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="187_stl_mydefine.cpp">
+    <ClCompile Include="187_stlvector_mydefine.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="188_stl_vectornesting.cpp">
