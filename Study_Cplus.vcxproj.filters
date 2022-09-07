@@ -450,6 +450,9 @@
     <ClCompile Include="187_stl_mydefine.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="188_stl_vectornesting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
