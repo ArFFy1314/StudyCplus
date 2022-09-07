@@ -536,7 +536,7 @@
     <ClCompile Include="185_stl_basic.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="186_stl_acquaintance.cpp">
+    <ClCompile Include="186_stlvector_acquaintance.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="187_stl_mydefine.cpp">
