@@ -27,6 +27,9 @@ void test01()
 	d.push_front(200);
 
 	printDeque(d);
+	//排序 默认排序规则 从小到大 升序
+	//对于支持随机访问的迭代器的容器，都可以利用sort算法直接对其进行排序
+	//vector容器也可以利用 sort进行排序
 	sort(d.begin(), d.end());
 	printDeque(d);
 
