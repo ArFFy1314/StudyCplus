@@ -525,6 +525,9 @@
     <ClCompile Include="212_stlstack_interface.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="213_stlqueue_basic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
