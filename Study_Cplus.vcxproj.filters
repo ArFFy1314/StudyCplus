@@ -498,6 +498,24 @@
     <ClCompile Include="202_stlvector_swap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="204_stldeque_build.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="205_stldeque_evalution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206_stldeque_size.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="207_stldeque_insert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="208_stldeque_get.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="209_stldeque_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
