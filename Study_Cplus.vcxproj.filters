@@ -519,6 +519,9 @@
     <ClCompile Include="210_stl_judges.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="211_stlstack_basic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
