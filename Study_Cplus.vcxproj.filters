@@ -561,6 +561,9 @@
     <ClCompile Include="224_stlset_sizeswap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="225_stlset_insert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
