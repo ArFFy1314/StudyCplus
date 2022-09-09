@@ -600,6 +600,9 @@
     <ClCompile Include="237_stlfunobj_basicuse.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="238_stlfunobj_onepred.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
