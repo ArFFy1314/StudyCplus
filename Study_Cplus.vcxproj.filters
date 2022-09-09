@@ -597,6 +597,9 @@
     <ClCompile Include="236_stl_worker.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="237_stlfunobj_basicuse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
