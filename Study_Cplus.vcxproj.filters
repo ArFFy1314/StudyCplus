@@ -585,6 +585,12 @@
     <ClCompile Include="232_stlmap_sizeswap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="233_stlmap_insert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="234_stlmap_findcount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
