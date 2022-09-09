@@ -606,6 +606,9 @@
     <ClCompile Include="239_stlfunobj_twopred.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="240_stlfunobj_arithmetic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
