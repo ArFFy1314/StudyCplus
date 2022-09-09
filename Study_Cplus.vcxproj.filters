@@ -612,6 +612,9 @@
     <ClCompile Include="241_stlfunobj_relation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="242_stlfunobj_logic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
