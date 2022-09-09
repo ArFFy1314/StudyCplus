@@ -618,6 +618,9 @@
     <ClCompile Include="243_stlalgorithm_for_each.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="244_stlalgorithm_transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
