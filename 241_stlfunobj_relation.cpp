@@ -7,7 +7,7 @@
 //* template<class T> bool greater_equal<T>          //大于等于
 //* template<class T> bool less<T>                           //小于
 //* template<class T> bool less_equal<T>               //小于等于
-//
+//总结：关系仿函数中最常用的就是greater<>大于
 //
 #include<iostream>
 using namespace std;
