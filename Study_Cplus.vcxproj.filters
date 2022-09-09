@@ -567,6 +567,9 @@
     <ClCompile Include="226_stlset_findcount.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="227_stlset_multiset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
