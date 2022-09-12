@@ -684,6 +684,21 @@
     <ClCompile Include="264_match_manager_281.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="282_computer_main_314.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="282_computer_student_314.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="282_computer_teacher_314.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="282_computer_manager_314.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="282_computer_orderFile_314.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="147_class_workers_166.h">
@@ -699,6 +714,27 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="264_match_speaker_281.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="282_computer_identity_314.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="282_computer_student_314.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="282_computer_teacher_314.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="282_computer_manager_314.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="282_computer_globalFile_314.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="282_computer_room_314.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="282_computer_orderFile_314.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

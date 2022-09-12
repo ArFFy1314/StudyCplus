@@ -776,6 +776,11 @@
     <ClCompile Include="264_match_manager_281.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="282_computer_main_314.cpp" />
+    <ClCompile Include="282_computer_manager_314.cpp" />
+    <ClCompile Include="282_computer_orderFile_314.cpp" />
+    <ClCompile Include="282_computer_student_314.cpp" />
+    <ClCompile Include="282_computer_teacher_314.cpp" />
     <ClCompile Include="test.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -796,6 +801,13 @@
     <ClInclude Include="264_match_speaker_281.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
+    <ClInclude Include="282_computer_globalFile_314.h" />
+    <ClInclude Include="282_computer_identity_314.h" />
+    <ClInclude Include="282_computer_manager_314.h" />
+    <ClInclude Include="282_computer_orderFile_314.h" />
+    <ClInclude Include="282_computer_room_314.h" />
+    <ClInclude Include="282_computer_student_314.h" />
+    <ClInclude Include="282_computer_teacher_314.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
